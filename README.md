@@ -12,18 +12,18 @@
 The project is created with use of jupyter notebook and python.
 The requierement for this project is as following:-
 
-	1.Python 2.7
-	2.Matplotlib
-	3.Seaborn
-	4.Pandas
+1.Python 2.7
+2.Matplotlib
+3.Seaborn
+4.Pandas
 
 ## Project Motivation<a name="motivation"></a>
 For this project I was intereseted in analyzing the trends in market for data analysts jobs.
 Below are few questions that were answered with this analysis:-
 
-	1. Which are the cities with high demand of data?
-	2. Which are the good sectors to work in?
-	3. What are the trens with respect to company ratings?
+1. Which are the cities with high demand of data?
+2. Which are the good sectors to work in?
+3. What are the trens with respect to company ratings?
 	
 The assets in the project are provided by some other sources, that are listed in this file.
 
