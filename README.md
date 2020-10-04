@@ -12,10 +12,10 @@
 The project is created with use of jupyter notebook and python.
 The requierement for this project is as following:-
 
-1.Python 2.7
-2.Matplotlib
-3.Seaborn
-4.Pandas
+1.Python 2.7.
+2.Matplotlib.
+3.Seaborn.
+4.Pandas.
 
 ## Project Motivation<a name="motivation"></a>
 For this project I was intereseted in analyzing the trends in market for data analysts jobs.
